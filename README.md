@@ -1,4 +1,4 @@
-# Firestore Example for Android
+# Exemplo de Firestore no Android Studio
 Este repositório contém um exemplo simples de integração com o Firestore no Android Studio, usando o Firebase como banco de dados em tempo real.
 
 ## O que é o Firestore?
